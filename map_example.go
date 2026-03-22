@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
------------------------------------------
+------------------------------------------
 File Name: map_example.go
 Description: Go program to demonstrate map creation, insertion, and access
 Author: Jibin Jose
